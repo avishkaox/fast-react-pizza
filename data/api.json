@@ -1,0 +1,68 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "Margherita",
+            "unitPrice": 12,
+            "imageUrl": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg",
+            "ingredients": ["tomato", "mozzarella", "basil"],
+            "soldOut": false
+        },
+        {
+            "id": 2,
+            "name": "Pepperoni",
+            "unitPrice": 15,
+            "imageUrl": "https://img.freepik.com/free-photo/pizza-pepperoni_140725-8494.jpg",
+            "ingredients": ["tomato", "mozzarella", "pepperoni"],
+            "soldOut": false
+        },
+        {
+            "id": 3,
+            "name": "Hawaiian",
+            "unitPrice": 14,
+            "imageUrl": "https://img.freepik.com/free-photo/hawaiian-pizza-with-ham-pineapple_1339-2101.jpg",
+            "ingredients": ["tomato", "mozzarella", "ham", "pineapple"],
+            "soldOut": false
+        },
+        {
+            "id": 4,
+            "name": "Veggie",
+            "unitPrice": 13,
+            "imageUrl": "https://img.freepik.com/free-photo/vegetarian-pizza-with-broccoli-peppers-tomatoes_140725-6682.jpg",
+            "ingredients": ["tomato", "mozzarella", "peppers", "onions", "mushrooms", "olives"],
+            "soldOut": false
+        },
+        {
+            "id": 5,
+            "name": "BBQ Chicken",
+            "unitPrice": 16,
+            "imageUrl": "https://img.freepik.com/free-photo/pizza-barbecue-chicken_140725-8479.jpg",
+            "ingredients": ["bbq sauce", "mozzarella", "chicken", "onions", "cilantro"],
+            "soldOut": true
+        },
+        {
+            "id": 6,
+            "name": "Four Cheese",
+            "unitPrice": 14,
+            "imageUrl": "https://img.freepik.com/free-photo/four-cheese-pizza_140725-6635.jpg",
+            "ingredients": ["mozzarella", "gorgonzola", "parmesan", "ricotta"],
+            "soldOut": false
+        },
+        {
+            "id": 7,
+            "name": "Meat Lovers",
+            "unitPrice": 17,
+            "imageUrl": "https://img.freepik.com/free-photo/pizza-meat-lovers_140725-8924.jpg",
+            "ingredients": ["tomato", "mozzarella", "pepperoni", "sausage", "ham", "bacon"],
+            "soldOut": true
+        },
+        {
+            "id": 8,
+            "name": "Seafood",
+            "unitPrice": 18,
+            "imageUrl": "https://img.freepik.com/free-photo/seafood-pizza-with-shrimps-mussels-squid_140725-8743.jpg",
+            "ingredients": ["tomato", "mozzarella", "shrimp", "mussels", "squid"],
+            "soldOut": false
+        }
+    ]
+}
